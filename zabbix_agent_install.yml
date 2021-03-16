@@ -1,0 +1,4 @@
+---
+- name: Install Zabbix Agent on Windows via Powershell
+  hosts: windows_servers
+  
